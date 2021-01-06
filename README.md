@@ -1,4 +1,4 @@
-Rasul Silva
+                                      Encrypted ATM Simulation - Rasul Silva
 ### Purpose:
 I made this project in order to practice Java, and get some new experience with
 Java features I had not used before.
