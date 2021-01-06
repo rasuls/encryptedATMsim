@@ -1,4 +1,7 @@
 Rasul Silva
+### Purpose:
+I made this project in order to practice Java, and get some new experience with
+Java features I had not used before.
 
 ### Description: 
 This is a simple ATM simulation that stores data in an encrypted text file on disk.
